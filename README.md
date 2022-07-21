@@ -2,4 +2,4 @@
 Game of Life
 
 Course: Modeling & Simulation  
-Facluty of Mathematics and Computer Science, Universtiy of Lodz
+Facluty of Mathematics and Computer Science
