@@ -2,4 +2,4 @@
 Game of Life
 
 Course: Modeling & Simulation  
-Facluty of Mathematics and Computer Science
+Faculty of Mathematics and Computer Science
